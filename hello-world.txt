@@ -1,0 +1,24 @@
+hello, world! This is done in VS CODE and will be done on the 'seocnd system' (second github account, anonwasm-win10-ff, done on, you guessed it,
+windows 10, firefox browser, and mostly in vscode GIT BASH) ) 
+
+(other system is UBUNTU, FISH Terminal, VIM editor, mostly command line )
+
+((to practice managing multiple systems/views and troubleshooting as a learning methodology))
+
+
+
+
+
+
+PUSHIN ( OR TRIYN TO !!!) this file TO SECOND GITHUB ACCOUNT !
+
+
+(they are on to me, they asked me this time to captcha and if I need collaborative solutions!)
+
+-- needing to learn to signin with git bash and add do teh ..stuff
+
+AND PULLING !  (pull or clone (??) the first repo )
+
+
+
+
