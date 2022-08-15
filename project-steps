@@ -1,14 +1,14 @@
 ~~ consolidate the two lists, find a reasonable format for the workflow. 
 
 [] find checklist etc syntax
-[] list out goals 
+[x] list out goals 
 [] learn linux
 [] learn python
 [] mini-tasks/exercises/projects for each 
-[] 'multiple personality disorder' git 'personalities' for practice (linux distro and windows vscode git tag commit branch tasks I designate 'individually'
+[x] 'multiple personality disorder' git 'personalities' for practice (linux distro and windows vscode git tag commit branch tasks I designate 'individually'
 (simulate working either end of a realistic workflow environment on different OS etc) 
 []first mini projects for each major goal 
-[] edx course
+[] edx linux course
 [] cs50x
 [] include books etc
 [] learn nice linux way of 'add this task to my to-do list and commit' 
